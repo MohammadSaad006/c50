@@ -1,0 +1,22 @@
+ * { 
+    border:solid;
+   }
+   .a{
+       background-color: red;
+   }
+   .a {
+       display: flex;
+       justify-content: space-around;
+   }
+   .main{
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: flex-end;
+   }
+    .Text{
+    background-color: rgb(231, 15, 177);
+    
+}
+.i2{
+    background-color: rgb(9, 250, 9);
+}
